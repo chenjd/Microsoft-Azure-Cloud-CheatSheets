@@ -1,6 +1,9 @@
 ## DevOps
----
+
 ###  [#1 Bicep CheatSheet](./1.BicepCheatSheet.png)
+
+<a href="https://github.com/chenjd/Microsoft-Azure-Cloud-CheatSheets/blob/main/DevOps/1.BicepCheatSheet.png"><img src="https://github.com/chenjd/Microsoft-Azure-Cloud-CheatSheets/blob/main/DevOps/1.BicepCheatSheet.png"  height="256px" align="right"></a>
+
 
 #### 💪 What’s Azure Bicep?
 Azure Bicep is a domain-specific language (DSL) that uses declarative syntax to deploy Azure resources and offers a first-class authoring experience for your infrastructure-as-code (IaC) solutions in Azure.
