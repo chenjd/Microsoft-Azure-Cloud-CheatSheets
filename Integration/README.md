@@ -1,11 +1,11 @@
 ## Integration
 ---
-###  [#1 Azure Sevice Bus CheatSheet](./1.AzureSeviceBusCheatSheet.png)
+###  [#1 Azure Service Bus CheatSheet](./1.AzureSeviceBusCheatSheet.png)
 
 <a href="https://github.com/chenjd/Microsoft-Azure-Cloud-CheatSheets/blob/main/Integration/1.AzureSeviceBusCheatSheet.png"><img src="https://github.com/chenjd/Microsoft-Azure-Cloud-CheatSheets/blob/main/Integration/1.AzureSeviceBusCheatSheet.png"  height="256px" align="right"></a>
 
 
-#### What’s Azure Sevice Bus?
+#### What’s Azure Service Bus?
 Azure Service Bus is a fully managed enterprise message broker with message queues and publish-subscribe topics
 
 Service Bus queues service is one of the message queue solutions in Azure, and the other is Azure Storage queues.
